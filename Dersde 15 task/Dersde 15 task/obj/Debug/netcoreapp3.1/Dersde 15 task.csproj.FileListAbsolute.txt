@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.exe
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.deps.json
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.dll
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\bin\Debug\netcoreapp3.1\Dersde 15 task.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.dll
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 15 task\Dersde 15 task\obj\Debug\netcoreapp3.1\Dersde 15 task.genruntimeconfig.cache
