@@ -39,8 +39,28 @@ namespace Dersde_15_task
             {
                 Console.WriteLine(item.FullName+"--"+item.AvaragePoint1());
             }
+            Sum(5, 6, 12, 24, 35);
+            Store bravo= new Store();
+            bravo.AddProduct(new Product() { No = 1, DiscountPercent = 15, Price = 100 });
+            bravo.AddProduct(new Product() { No = 2, DiscountPercent = 10, Price = 50 });
+            bravo.AddProduct(new Product() { No = 3, DiscountPercent = 20, Price = 80 });
+            bravo.AddProduct(new Product() { No = 1, DiscountPercent = 0, Price = 30 });
+            var newproduct=bravo.GetDiscountedProducts(x => x >= 10);
+            newproduct = bravo.GetProductByPriceRange(40, 80);
+            foreach (var item in newproduct)
+            {
+                item.ShowInfo();
+            }
 
-
+        }
+        static int Sum(params int[] arr)
+        {
+            int sum = 0;
+            foreach (var item in arr)
+            {
+                sum++;
+            }
+            return sum;
         }
     }
 }
